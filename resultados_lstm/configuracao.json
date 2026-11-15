@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "janelas": [
+    7,
+    28
+  ],
+  "janela_escolhida": 7,
+  "media_treino": 3421.373046875,
+  "desvio_treino": 1315.543701171875,
+  "fim_treino_posicao_exclusiva": 437,
+  "inicio_teste_posicao": 584,
+  "versoes": {
+    "tensorflow": "2.21.0",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1"
+  }
+}

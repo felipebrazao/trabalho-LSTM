@@ -1,0 +1,14 @@
+* text=auto
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.ipynb text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.png binary
+*.keras binary
+
+# Preservar os bytes e o SHA256 da base original.
+day.csv -text -eol whitespace=cr-at-eol
