@@ -30,7 +30,7 @@ def main():
         cliente.execute()
     finally:
         nbformat.write(notebook, caminho)
-    print("Notebook executado e salvo com todas as saídas.", flush=True)
+    print("LSTM.ipynb executado e salvo com todas as saídas.", flush=True)
 
 
 if __name__ == "__main__":

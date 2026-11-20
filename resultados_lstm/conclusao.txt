@@ -1,1 +1,0 @@
-A janela de 28 dias aumentou o MAE de validação: 7 dias = 1342.93; 28 dias = 1405.34 aluguéis/dia. A janela selecionada foi de 7 dias. No teste, o MAE da LSTM (1481.34) foi maior que o de Persistência (878.39). No teste, o MAE da LSTM (1481.34) foi maior que o de Sazonal semanal (1194.73).
